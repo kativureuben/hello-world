@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 
 This is very useful as it is my first full version control tutorial i have taken
 
-i can see that it is very useful and a must for every develope
+i can see that it is very useful and a must for every developer
+
+let me just add this line for additional learning on here
